@@ -18,18 +18,17 @@ export function Home() {
             <h2 className="text-3xl font-bold text-gray-900 mb-6">About Me</h2>
             <div className="prose prose-lg text-gray-600">
               <p>
-                I'm a backend engineer with a passion for building robust, scalable systems. With years of
-                experience in distributed systems, I enjoy tackling complex architectural challenges and
-                creating elegant solutions.
+                안녕하세요. AI 연구와 서비스 개발 경험이 모두 있는 개발자 이유제입니다. 학부생 시절 AI에 관심을 가지고
+                딥러닝 연구실 학부연구생과 AI 회사에서 인턴으로 근무하며 AI에 대한 이해와 실무능력을 쌓았습니다.
               </p>
               <p>
-                My expertise spans database optimization, API design, microservices architecture, and cloud
-                infrastructure. I believe in writing clean, maintainable code and building systems that can
-                grow with the business.
+                이후 개발에 흥미를 느껴 백엔드 개발자로 근무하며 국가법령정보 플랫폼 고도화, 전략물자관리 서비스 재구축,
+                서울지하철 데이터 API 개방 등 다양한 프로젝트에 참여했습니다. 트랜잭션 구조 설계 및 개선,
+                Sentence Transformer 모델을 활용한 데이터 분석 시스템 구축 경험이 있습니다.
               </p>
               <p>
-                When I'm not coding, I enjoy writing about software engineering best practices and sharing
-                knowledge with the developer community.
+                이제는 AI와 개발이 동떨어진 기술이 아니라고 생각합니다. AI를 하나의 기술 스택으로서
+                더욱 향상된 서비스를 제공하는 개발을 지향합니다.
               </p>
             </div>
           </div>
@@ -77,7 +76,7 @@ export function Home() {
           <p className="text-gray-300 mb-8 max-w-2xl mx-auto">
             I'm always open to discussing new projects, opportunities, or partnerships.
           </p>
-          <Button href="mailto:hello@yjlee.dev" variant="primary" size="lg" external>
+          <Button href="mailto:dbwp031@gmail.com" variant="primary" size="lg" external>
             Get in Touch
           </Button>
         </div>
